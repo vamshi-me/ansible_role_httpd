@@ -1,12 +1,14 @@
-Role Name
+Hosting a static application
 =========
 
-A brief description of the role goes here.
+This role installs httpd on your server and serves an static  html application
 
 Requirements
 ------------
 
-Any pre-requisites that may not be covered by Ansible itself or the role should be mentioned here. For instance, if the role uses the EC2 module, it may be a good idea to mention in this section that the boto package is required.
+Ansible >= 2.9
+EC2 instance of any Debian family 
+
 
 Role Variables
 --------------
