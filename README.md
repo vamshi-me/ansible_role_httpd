@@ -7,7 +7,8 @@ Requirements
 ------------
 
 Ansible >= 2.9
-EC2 instance of any Debian family 
+
+EC2 instance of any Debian family
 
 
 Role Variables
